@@ -1,5 +1,6 @@
 ## Business-Insights-360
 Business Insights 360 Dashboard for Finance, Sales, Marketing and Supply Chain
+
 ##### Project Short Info:
 AtliQ Hardwares is a consumer electronics company expanding rapidly but is not able to compete with other companies using data as most of their report still exists in Excel. 
 My goal is to implement an advanced analytics solution using Power BI that will enable the company to get insights and make informed decisions.
@@ -9,6 +10,8 @@ In this project, the goal is to be one report which could be used by stakeholder
 1. Robust Data Modeling
 2. User-empathetic Report design
 3. Drillable Insights
+
+**************************
 
 ##### I learned the following things in this project
 1. Power Query (Basic and Advanced Operations) 
@@ -28,6 +31,8 @@ User-empathetic landing page as a part of dashboard design
 
 ##### Screenshot Description2:
 Data modelling involving 10+ tables
+
+***********************
 
 Project demo Video Link: https://app.powerbi.com/groups/me/reports/037979d6-0bd0-4194-8cbe-f3997071cd2f?experience=power-bi.
 
